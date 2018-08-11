@@ -1,0 +1,119 @@
+ITEMS
+{
+{
+item:movie
+TYPE:DVD
+TITLE:"Scarface"
+COMPANY:"Universal Pictures"
+YEAR:1983
+CATEGORY:"Crime" "Drama"
+CAST:"Al Pacino" "Michelle Pfeifer"
+DIRECTOR:"Brian De Palma"
+WRITER:"Oliver Stone"
+LENGTH:170
+COPIES:3
+IMAGE:Images\scarface.jpg
+}
+{
+item:movie
+TYPE:DVD
+TITLE:"The Shining"
+COMPANY:"Warner Bros."
+YEAR:1980
+CATEGORY:"Horror"
+CAST:"Jack Nicholson" "Shelley Dunvall"
+DIRECTOR:"Stanley Kubrick"
+WRITER:"Stephen King"
+LENGTH:146
+COPIES:2
+IMAGE:Images\shining.jpg
+}
+{
+item:movie
+TYPE:Blue ray
+TITLE:"The Wolf of Wall Street"
+COMPANY:"Paramount Pictures"
+YEAR:2013
+CATEGORY:"Biography""Comedy""Crime"
+CAST:"Leonardo DiCaprio""Jonah Hill""Margot Robbie"
+DIRECTOR:"Martin Scorsese"
+WRITER:"Terence Winter" "Jordan Belfort"
+LENGTH:180
+COPIES:1
+IMAGE:Images\wolf.jpg
+}
+{
+item:movie
+TYPE:Blue ray
+TITLE:"Interstellar"
+COMPANY:"Paramount Pictures"
+YEAR:2014
+CATEGORY:"Adventure""Sci-Fi"
+CAST:"Mathew McConaughey""Anne Hathaway"
+DIRECTOR:"Christopher Nolan"
+WRITER:"Jonathan Nolan""Christopher Nolan"
+LENGTH:169
+COPIES:2
+IMAGE:Images\interstellar.jpg
+}
+{
+item:game
+TYPE:PS4
+TITLE:"The Last of Us"
+COMPANY:"Naughty Dog"
+YEAR:2015
+CATEGORY:"Action-Adventure""Horror-Survival"
+COPIES:3
+IMAGE:Images\lastofus.jpg
+}
+{
+item:game
+TYPE:PS4
+TITLE:"Grand Theft Auto V"
+COMPANY:"Rockstar"
+YEAR:2014
+CATEGORY:"Action-Adventure"
+COPIES:2
+IMAGE:Images\gtav.jpg
+}
+{
+item:game
+TYPE:Xbox One
+TITLE:"Forza Horizon 2"
+YEAR:2014
+COMPANY:"Microsoft""Playground Games"
+CATEGORY:"Racing"
+COPIES:2
+IMAGE:Images\forza.jpg
+}
+{
+item:game
+TYPE:Xbox One
+TITLE:"Sunset Overdrive"
+YEAR:2014
+COMPANY:"Microsoft ""Insomniac Games"
+CATEGORY:"Action"
+COPIES:1
+IMAGE:Images\overdrive.jpg
+}
+{
+item:game
+TYPE:Wii U
+TITLE:"Super Smash Bros"
+YEAR:2014
+COMPANY:"Nintendo" "Bandai Namco Games"
+CATEGORY:"Fighting"
+COPIES:2
+IMAGE:Images\ssb.jpg
+}
+{
+item:game
+TYPE:Wii U
+TITLE:"Bayonetta 2"
+YEAR:2014
+COMPANY:"Nintendo""Platinum Games"
+CATEGORY:"Action"
+COPIES:2
+IMAGE:Images\bayoneta.jpg
+}
+}
